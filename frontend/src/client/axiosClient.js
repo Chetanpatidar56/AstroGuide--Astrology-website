@@ -1,6 +1,6 @@
 import axios from "axios";
 const axiosClient=axios.create({
-    baseURL:'http://astroguide.onrender.com',
+    baseURL:'https://astroguide-za8o.onrender.com',
     withCredentials:true,
     headers:{
         'Content-Type':'application/json'
