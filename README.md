@@ -43,6 +43,3 @@ Check out the live site here: https://astroguide-nu.vercel.app/
 ---
 
 
-
-1. **Clone the repository:**
-
